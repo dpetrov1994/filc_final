@@ -1,0 +1,1 @@
+$('input[name*=nome_relatorio]').rules('add', 'required');

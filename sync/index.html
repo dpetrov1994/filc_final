@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sincronizador</title>
+
+	<style>
+		.progress-bar{
+			width:50%;
+			height: 30px;
+			border: 1px solid gray
+		}
+
+		.progress-bar-inner{
+			text-align:center;
+			color:black;
+			font-weight:800;
+			font-size: 20px;
+			height: 30px;
+			background: lightgreen;
+		}
+
+	</style>
+</head>
+<body>
+
+<h1 style="text-align: center">Sincronizador <b style="color:#ff1a41">SAGE -> CRM</b></h1>
+<div style="font-size: 20px;text-align: center;color:royalblue">
+	<b><i id="estado">parado</i></b> <i id="timer"></i>
+</div>
+<div style="text-align: center">
+	<br>
+	<button style="width: 150px;height: 50px;background: #ff1a41;border: none;color:white;font-size: 20px;font-weight: 800;padding:10px" type="button" id="iniciar" onclick="iniciar_parar()">Iniciar</button><br>
+	<br>
+</div>
+<div style="font-size: 12px;text-align: center;display: none">
+	Voltas: <b id='pagina_apagar'>1</b>
+</div>
+
+
+<div style="text-align: center">
+<h3>LOG:</h3>
+<div style="font-size: 30px" id="log"></div>
+</div>
+
+
+<script
+		src="https://code.jquery.com/jquery-3.6.0.min.js"
+		integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+		crossorigin="anonymous"></script>
+
+<script>
+
+	/*
+tabelas_iva
+categorias
+atributos
+valores_atributos
+produtos
+	 */
+
+	var pagina_apagar=0;
+
+	var timer;
+	var msec = 0;
+	var sec = 0;
+	var min = 0;
+
+	function clock() {
+		msec += 1;
+		if (msec == 60) {
+			sec += 1;
+			msec = 0;
+			if (sec == 60) {
+				sec = 0;
+				min += 1;
+			}
+		}
+		document.getElementById("timer").innerHTML = min + ":" + sec + ":" + msec;
+	}
+
+
+	function iniciar_parar() {
+		if($("#estado").text()=="parado"){
+			$("#iniciar").text("Parar");
+			$("#estado").text("iniciado");
+			run123();
+			//run123('produtos_validar_apagar');
+			timer = setInterval(clock, 1000);
+		}else{
+			$("#iniciar").text("Iniciar");
+			$("#estado").text("parado");
+			clearInterval(timer);
+		}
+	}
+	iniciar_parar();
+
+
+
+	function run123(){
+
+		if($("#estado").text()=="iniciado") {
+
+			$("#log").html(" - A sincronizar...");
+
+			var xmlhttp = new XMLHttpRequest();
+			xmlhttp.onreadystatechange = function () {
+				if (this.readyState == 4 && this.status == 200) {
+
+						var currentdate = new Date();
+						var datetime = "" + currentdate.getDate() + "/"
+								+ (currentdate.getMonth()+1)  + "/"
+								+ currentdate.getFullYear() + " @ "
+								+ currentdate.getHours() + ":"
+								+ currentdate.getMinutes() + ":"
+								+ currentdate.getSeconds();
+
+						//fim
+						clearInterval(timer);
+						var wait=1000*60*15; //5minutos
+						var minutos=wait/60/1000;
+						$("#log").html(datetime+"<br> - A dar uma pausa ao servidor... <br>O processo vai recomecar em "+minutos+" min.");
+						$("#estado").text("Em pausa por "+minutos+" min.");
+
+
+						setTimeout(function () {
+
+							pagina_apagar++;
+							$("#pagina_apagar").html(pagina_apagar);
+
+							$("#log").html(datetime+"<br> - A sincronizar...");
+							$("#offset").val('0');
+							$("#iniciar").text("Parar");
+							$("#estado").text("iniciado");
+							run123();
+							timer = setInterval(clock, 1000);
+						},wait);
+
+				}
+			};
+			xmlhttp.open("GET", "dummy.php", true);
+			xmlhttp.send();
+
+
+
+		}
+	}
+
+
+
+</script>
+
+
+</body>
+</html>

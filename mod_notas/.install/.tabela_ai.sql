@@ -1,0 +1,1 @@
+ALTER TABLE srv_clientes_notas MODIFY id_nota int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;

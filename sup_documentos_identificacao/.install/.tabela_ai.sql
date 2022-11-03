@@ -1,0 +1,1 @@
+ALTER TABLE sup_documentos_identificacao MODIFY id_documento_identificacao int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;

@@ -1,0 +1,1 @@
+ALTER TABLE imap ADD PRIMARY KEY (id_imap);

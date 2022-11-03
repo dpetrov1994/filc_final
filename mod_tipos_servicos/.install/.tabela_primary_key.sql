@@ -1,0 +1,1 @@
+ALTER TABLE tipos_servicos ADD PRIMARY KEY (id_tipo_servico);

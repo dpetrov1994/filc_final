@@ -1,0 +1,1 @@
+ALTER TABLE estados_viatura MODIFY id_estado_viatura int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;

@@ -1,0 +1,1 @@
+ALTER TABLE srv_clientes ADD PRIMARY KEY (id_cliente);

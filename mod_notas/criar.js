@@ -1,0 +1,1 @@
+$('input[name*=nome_nota]').rules('add', 'required');

@@ -1,0 +1,1 @@
+ALTER TABLE exportacoes MODIFY id_exportacao int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;

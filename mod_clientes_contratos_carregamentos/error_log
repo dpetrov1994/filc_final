@@ -1,0 +1,18 @@
+[16-Aug-2022 13:53:23 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 38
+[16-Aug-2022 13:56:04 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 65
+[16-Aug-2022 13:58:54 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 38
+[16-Aug-2022 14:00:40 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 38
+[16-Aug-2022 14:01:21 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 38
+[16-Aug-2022 14:01:40 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 38
+[16-Aug-2022 14:02:06 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 38
+[16-Aug-2022 14:03:13 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 38
+[16-Aug-2022 14:03:44 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 38
+[16-Aug-2022 14:04:48 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 38
+[16-Aug-2022 14:05:00 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 38
+[16-Aug-2022 14:15:21 Etc/UTC] PHP Notice:  Undefined index: balanco_anteriro in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 44
+[16-Aug-2022 14:15:21 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 47
+[16-Aug-2022 14:15:43 Etc/UTC] PHP Notice:  Undefined index: balanco_anterior in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 44
+[16-Aug-2022 14:15:43 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 47
+[16-Aug-2022 14:16:09 Etc/UTC] PHP Notice:  Undefined index: balanco_anterior in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 44
+[16-Aug-2022 14:16:09 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 47
+[16-Aug-2022 14:17:33 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_clientes_contratos_carregamentos/criar.php on line 47

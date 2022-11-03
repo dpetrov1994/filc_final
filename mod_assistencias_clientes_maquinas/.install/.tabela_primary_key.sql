@@ -1,0 +1,1 @@
+ALTER TABLE assistencias_clientes_maquinas ADD PRIMARY KEY (id_assistencia_cliente_maquina);

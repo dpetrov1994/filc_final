@@ -1,0 +1,1 @@
+$('input[name*=nome_estado_viatura]').rules('add', 'required');

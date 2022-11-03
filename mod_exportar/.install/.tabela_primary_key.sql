@@ -1,0 +1,1 @@
+ALTER TABLE exportacoes ADD PRIMARY KEY (id_exportacao);

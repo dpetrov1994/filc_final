@@ -1,0 +1,1 @@
+$('input[name*=nome_assistencia_cliente_maquina]').rules('add', 'required');$('input[name*=id_maquina]').rules('add', 'required');$('input[name*=id_assistencia]').rules('add', 'required');$('input[name*=defeitos]').rules('add', 'required');$('input[name*=atividade]').rules('add', 'required');$('input[name*=pecas]').rules('add', 'required');

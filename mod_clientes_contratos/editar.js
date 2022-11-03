@@ -1,0 +1,1 @@
+$('input[name*=nome_contrato]').rules('add', 'required');$('input[name*=id_cliente]').rules('add', 'required');$('input[name*=horas]').rules('add', 'required');

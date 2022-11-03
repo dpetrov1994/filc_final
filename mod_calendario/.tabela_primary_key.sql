@@ -1,0 +1,1 @@
+ALTER TABLE calendario ADD PRIMARY KEY (id_calendario);

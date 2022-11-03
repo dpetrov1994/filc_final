@@ -1,0 +1,2 @@
+{"update_id":337062587,
+"message":{"message_id":13,"from":{"id":558475499,"is_bot":false,"first_name":"Denis","username":"dpetrov053","language_code":"pt-pt"},"chat":{"id":558475499,"first_name":"Denis","username":"dpetrov053","type":"private"},"date":1660568295,"text":"/ajuda","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}

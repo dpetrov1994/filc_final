@@ -1,0 +1,1 @@
+$('input[name*=nome_assistencia_cliente]').rules('add', 'required');$('input[name*=id_cliente]').rules('add', 'required');$('input[name*=id_assistencia]').rules('add', 'required');$('input[name*=data_assinado]').rules('add', 'dataPortuguesa');

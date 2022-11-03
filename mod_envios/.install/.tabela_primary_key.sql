@@ -1,0 +1,1 @@
+ALTER TABLE envios ADD PRIMARY KEY (id_envio);

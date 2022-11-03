@@ -1,0 +1,1 @@
+$('input[name*=nome_produto]').rules('add', 'required');

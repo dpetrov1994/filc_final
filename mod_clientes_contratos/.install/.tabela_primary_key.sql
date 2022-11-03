@@ -1,0 +1,1 @@
+ALTER TABLE clientes_contratos ADD PRIMARY KEY (id_contrato);

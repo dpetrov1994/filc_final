@@ -1,0 +1,1 @@
+ALTER TABLE assistencias_categorias ADD PRIMARY KEY (id_categoria);

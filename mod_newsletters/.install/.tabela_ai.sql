@@ -1,0 +1,1 @@
+ALTER TABLE newsletters MODIFY id_newsletter int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;

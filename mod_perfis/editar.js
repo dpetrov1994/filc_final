@@ -1,0 +1,1 @@
+$('input[name*=nome_perfil]').rules('add', 'required');

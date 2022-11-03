@@ -1,0 +1,112 @@
+<html xmlns:x="urn:schemas-microsoft-com:office:excel">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!--[if gte mso 9]>
+    <xml>
+        <x:ExcelWorkbook>
+            <x:ExcelWorksheets>
+                <x:ExcelWorksheet>
+                    <x:Name><![CDATA[Quantidades em espanha]]></x:Name>
+                    <x:WorksheetOptions>
+                        <x:Print>
+                            <x:ValidPrinterInfo/>
+                        </x:Print>
+                    </x:WorksheetOptions>
+                </x:ExcelWorksheet>
+            </x:ExcelWorksheets>
+        </x:ExcelWorkbook>
+    </xml>
+    <![endif]-->
+    <style type="text/css">
+
+body{
+            color: black;
+            border-width: thin;
+        }
+        table{
+            border: 1px solid darkgray;
+
+            border-collapse: collapse;
+        }
+        th{
+            border: thin solid darkgray;
+            border-collapse: collapse;
+        }
+        tr{
+            border: thin solid darkgray;
+            border-collapse: collapse;
+        }
+        td{
+            border: thin solid darkgray;
+            border-collapse: collapse;
+            padding: 5px;
+            vertical-align: middle;
+        }
+
+    </style>
+</head>
+<body>
+
+<table>
+<tr>
+<td>Gerado em: 28/11/2019 18:02:48</td>
+</tr>
+</table>
+<table id="tabela">
+    <tr>
+        <td colspan="3"></td>
+        <td colspan="2" style="text-align: center;background: yellow">2017</td><td colspan="2" style="text-align: center;background: yellow">2018</td><td colspan="2" style="text-align: center;background: yellow">2019</td>
+        <td colspan="11" style="text-align: center;background: #2a98ff">Serviços Embotellado 2019</td>
+        <td colspan="11" style="text-align: center;background: #43ff71">Serviços Acabado 2019</td>
+    </tr>
+    
+<tr>
+        <td>Código Postal</td>
+        <td>Cliente</td>
+        <td>Cliente desde</td>
+        <td>Embotellado</td>
+                <td>Acabado</td><td>Embotellado</td>
+                <td>Acabado</td><td>Embotellado</td>
+                <td>Acabado</td>
+        
+        <td style="text-align: center;background: #2a98ff">1</td><td style="text-align: center;background: #2a98ff">2</td><td style="text-align: center;background: #2a98ff">3</td><td style="text-align: center;background: #2a98ff">4</td><td style="text-align: center;background: #2a98ff">5</td><td style="text-align: center;background: #2a98ff">6</td><td style="text-align: center;background: #2a98ff">7</td><td style="text-align: center;background: #2a98ff">8</td><td style="text-align: center;background: #2a98ff">9</td><td style="text-align: center;background: #2a98ff">10</td><td style="text-align: center;background: #2a98ff">11</td>
+        <td style="text-align: center;background: #43ff71">1</td><td style="text-align: center;background: #43ff71">2</td><td style="text-align: center;background: #43ff71">3</td><td style="text-align: center;background: #43ff71">4</td><td style="text-align: center;background: #43ff71">5</td><td style="text-align: center;background: #43ff71">6</td><td style="text-align: center;background: #43ff71">7</td><td style="text-align: center;background: #43ff71">8</td><td style="text-align: center;background: #43ff71">9</td><td style="text-align: center;background: #43ff71">10</td><td style="text-align: center;background: #43ff71">11</td>
+        
+</tr>
+
+    
+    <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>_embotelladoTotal2017_</td>
+          <td>_acabadoTotal2017_</td><td>_embotelladoTotal2018_</td>
+          <td>_acabadoTotal2018_</td><td>_embotelladoTotal2019_</td>
+          <td>_acabadoTotal2019_</td> <td>_ServicoEmbotelladoTotal1_</td><td>_ServicoEmbotelladoTotal2_</td><td>_ServicoEmbotelladoTotal3_</td><td>_ServicoEmbotelladoTotal4_</td><td>_ServicoEmbotelladoTotal5_</td><td>_ServicoEmbotelladoTotal6_</td><td>_ServicoEmbotelladoTotal7_</td><td>_ServicoEmbotelladoTotal8_</td><td>_ServicoEmbotelladoTotal9_</td><td>_ServicoEmbotelladoTotal10_</td><td>_ServicoEmbotelladoTotal11_</td> <td>_ServicoAcabadoTotal1_</td><td>_ServicoAcabadoTotal2_</td><td>_ServicoAcabadoTotal3_</td><td>_ServicoAcabadoTotal4_</td><td>_ServicoAcabadoTotal5_</td><td>_ServicoAcabadoTotal6_</td><td>_ServicoAcabadoTotal7_</td><td>_ServicoAcabadoTotal8_</td><td>_ServicoAcabadoTotal9_</td><td>_ServicoAcabadoTotal10_</td><td>_ServicoAcabadoTotal11_</td></tr>
+    
+<tr>
+        <td>Código Postal</td>
+        <td>Cliente</td>
+        <td>Cliente desde</td>
+        <td>Embotellado</td>
+                <td>Acabado</td><td>Embotellado</td>
+                <td>Acabado</td><td>Embotellado</td>
+                <td>Acabado</td>
+        
+        <td style="text-align: center;background: #2a98ff">1</td><td style="text-align: center;background: #2a98ff">2</td><td style="text-align: center;background: #2a98ff">3</td><td style="text-align: center;background: #2a98ff">4</td><td style="text-align: center;background: #2a98ff">5</td><td style="text-align: center;background: #2a98ff">6</td><td style="text-align: center;background: #2a98ff">7</td><td style="text-align: center;background: #2a98ff">8</td><td style="text-align: center;background: #2a98ff">9</td><td style="text-align: center;background: #2a98ff">10</td><td style="text-align: center;background: #2a98ff">11</td>
+        <td style="text-align: center;background: #43ff71">1</td><td style="text-align: center;background: #43ff71">2</td><td style="text-align: center;background: #43ff71">3</td><td style="text-align: center;background: #43ff71">4</td><td style="text-align: center;background: #43ff71">5</td><td style="text-align: center;background: #43ff71">6</td><td style="text-align: center;background: #43ff71">7</td><td style="text-align: center;background: #43ff71">8</td><td style="text-align: center;background: #43ff71">9</td><td style="text-align: center;background: #43ff71">10</td><td style="text-align: center;background: #43ff71">11</td>
+        
+</tr>
+
+    <tr>
+        <td colspan="3"></td>
+        <td colspan="2" style="text-align: center;background: yellow">2017</td><td colspan="2" style="text-align: center;background: yellow">2018</td><td colspan="2" style="text-align: center;background: yellow">2019</td>
+        <td colspan="11" style="text-align: center;background: #2a98ff">Serviços Embotellado 2019</td>
+        <td colspan="11" style="text-align: center;background: #43ff71">Serviços Acabado 2019</td>
+    </tr>
+</table>
+
+
+
+</body>
+</html>

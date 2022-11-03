@@ -1,0 +1,12 @@
+[24-Oct-2022 18:14:14 Etc/UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srvpt/public_html/filc.srv01.pt/_funcoes.php:159
+Stack trace:
+#0 /home/srvpt/public_html/filc.srv01.pt/_footer.php(11): runQ('SELECT * FROM _...', NULL, 1)
+#1 /home/srvpt/public_html/filc.srv01.pt/login/index.php(111): include_once('/home/srvpt/pub...')
+#2 {main}
+  thrown in /home/srvpt/public_html/filc.srv01.pt/_funcoes.php on line 159
+[24-Oct-2022 19:19:25 Etc/UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/srvpt/public_html/filc.srv01.pt/_funcoes.php:159
+Stack trace:
+#0 /home/srvpt/public_html/filc.srv01.pt/_footer.php(11): runQ('SELECT * FROM _...', NULL, 1)
+#1 /home/srvpt/public_html/filc.srv01.pt/login/index.php(111): include_once('/home/srvpt/pub...')
+#2 {main}
+  thrown in /home/srvpt/public_html/filc.srv01.pt/_funcoes.php on line 159

@@ -1,0 +1,1 @@
+ALTER TABLE tipos_servicos MODIFY id_tipo_servico int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;

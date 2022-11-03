@@ -1,0 +1,1 @@
+$('input[name*=nome_envio]').rules('add', 'required');

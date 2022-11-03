@@ -1,0 +1,1 @@
+ALTER TABLE estados_viatura ADD PRIMARY KEY (id_estado_viatura);

@@ -1,0 +1,1 @@
+ALTER TABLE backups ADD PRIMARY KEY (id_backup);

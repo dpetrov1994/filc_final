@@ -1,0 +1,1 @@
+ALTER TABLE clientes_contratos MODIFY id_contrato int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;

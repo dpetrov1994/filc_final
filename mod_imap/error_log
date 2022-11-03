@@ -1,0 +1,250 @@
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2305
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[01-Jun-2022 18:26:20 Etc/UTC] PHP Notice:  Array to string conversion in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2306
+[03-Jun-2022 00:13:57 Etc/UTC] PHP Warning:  Cannot use a scalar value as an array in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 18
+[03-Jun-2022 00:13:57 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 30
+[03-Jun-2022 00:13:58 Etc/UTC] PHP Warning:  Cannot use a scalar value as an array in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 18
+[03-Jun-2022 00:13:58 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 30
+[03-Jun-2022 00:14:48 Etc/UTC] PHP Warning:  in_array() expects parameter 2 to be array, integer given in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 19
+[03-Jun-2022 00:14:48 Etc/UTC] PHP Warning:  Cannot use a scalar value as an array in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 20
+[03-Jun-2022 00:14:48 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 34
+[03-Jun-2022 00:14:50 Etc/UTC] PHP Warning:  in_array() expects parameter 2 to be array, integer given in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 19
+[03-Jun-2022 00:14:50 Etc/UTC] PHP Warning:  Cannot use a scalar value as an array in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 20
+[03-Jun-2022 00:14:50 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 34
+[03-Jun-2022 00:15:14 Etc/UTC] PHP Warning:  in_array() expects parameter 2 to be array, integer given in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 19
+[03-Jun-2022 00:15:14 Etc/UTC] PHP Warning:  Cannot use a scalar value as an array in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 20
+[03-Jun-2022 00:15:14 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 34
+[03-Jun-2022 00:15:15 Etc/UTC] PHP Warning:  in_array() expects parameter 2 to be array, integer given in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 19
+[03-Jun-2022 00:15:15 Etc/UTC] PHP Warning:  Cannot use a scalar value as an array in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 20
+[03-Jun-2022 00:15:15 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 34
+[03-Jun-2022 00:15:25 Etc/UTC] PHP Warning:  in_array() expects parameter 2 to be array, integer given in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 19
+[03-Jun-2022 00:15:25 Etc/UTC] PHP Warning:  Cannot use a scalar value as an array in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 20
+[03-Jun-2022 00:15:25 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 34
+[05-Jun-2022 17:51:36 Etc/UTC] PHP Notice:  Undefined index: id_ticket in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 16
+[05-Jun-2022 17:51:36 Etc/UTC] PHP Notice:  Undefined index: id_ticket in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 17
+[05-Jun-2022 17:51:36 Etc/UTC] PHP Notice:  Undefined index: id_ticket in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 19
+[05-Jun-2022 17:51:36 Etc/UTC] PHP Notice:  Undefined index: id_ticket in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 20
+[05-Jun-2022 20:42:05 Etc/UTC] PHP Notice:  Undefined index: id_ticket in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 16
+[05-Jun-2022 20:42:05 Etc/UTC] PHP Notice:  Undefined index: id_ticket in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 17
+[05-Jun-2022 20:42:05 Etc/UTC] PHP Notice:  Undefined index: id_ticket in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 19
+[05-Jun-2022 20:42:05 Etc/UTC] PHP Notice:  Undefined index: id_ticket in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 20
+[06-Jun-2022 17:44:58 Etc/UTC] PHP Notice:  Undefined variable: cfg_id_modulo in /home/uf23qstc/suporte.petrovnetwork.com/_historicoPaginas.php on line 5
+[06-Jun-2022 17:45:07 Etc/UTC] PHP Notice:  Undefined variable: cfg_id_modulo in /home/uf23qstc/suporte.petrovnetwork.com/_historicoPaginas.php on line 5
+[09-Aug-2022 20:27:40 Etc/UTC] PHP Notice:  Undefined variable: tracking_info in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 108
+[09-Aug-2022 20:27:40 Etc/UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 108
+[09-Aug-2022 20:27:40 Etc/UTC] PHP Notice:  Undefined variable: dados_t in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 108
+[09-Aug-2022 20:27:56 Etc/UTC] PHP Notice:  Undefined variable: tracking_info in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 108
+[09-Aug-2022 20:27:56 Etc/UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 108
+[09-Aug-2022 20:27:56 Etc/UTC] PHP Notice:  Undefined variable: dados_t in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 108
+[12-Aug-2022 20:26:45 Etc/UTC] PHP Notice:  Undefined variable: id_conf in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/_criar_editar_detalhes.php on line 34
+[13-Aug-2022 14:27:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 62
+[13-Aug-2022 14:30:09 Etc/UTC] PHP Notice:  Undefined variable: idParent in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 42
+[13-Aug-2022 14:30:26 Etc/UTC] PHP Notice:  Undefined variable: erros in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 38
+[13-Aug-2022 14:57:02 Etc/UTC] PHP Notice:  Undefined index: die in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 47
+[13-Aug-2022 14:57:02 Etc/UTC] PHP Notice:  Undefined index:  in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 48
+[13-Aug-2022 14:57:02 Etc/UTC] PHP Notice:  Undefined variable: mensagem in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 48
+[13-Aug-2022 14:57:02 Etc/UTC] PHP Notice:  Undefined variable: destinatarios in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 48
+[13-Aug-2022 14:57:02 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 198
+[13-Aug-2022 14:57:02 Etc/UTC] PHP Notice:  Undefined variable: insert_id in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 62
+[13-Aug-2022 14:59:27 Etc/UTC] PHP Warning:  copy(../_contents/imap/113/../.tmp/21/1.jpg): failed to open stream: No such file or directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 207
+[13-Aug-2022 14:59:27 Etc/UTC] PHP Warning:  copy(../_contents/imap/113/../.tmp/21/npp.8.1.4.installer.exe): failed to open stream: No such file or directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 207
+[13-Aug-2022 14:59:27 Etc/UTC] PHP Warning:  copy(../_contents/imap/113/../.tmp/21/paint.net.4.2.16.install.zip): failed to open stream: No such file or directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 207
+[13-Aug-2022 14:59:27 Etc/UTC] PHP Notice:  Undefined variable: anexos_pequenos in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 270
+[13-Aug-2022 14:59:27 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 270
+[13-Aug-2022 14:59:47 Etc/UTC] PHP Notice:  Undefined index: cc in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 52
+[13-Aug-2022 14:59:47 Etc/UTC] PHP Notice:  Undefined index: enviado in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 65
+[13-Aug-2022 14:59:47 Etc/UTC] PHP Notice:  Undefined index: lido in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 99
+[13-Aug-2022 14:59:47 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2348
+[13-Aug-2022 14:59:47 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2429
+[13-Aug-2022 15:03:34 Etc/UTC] PHP Warning:  copy(../_contents/imap/114/../.tmp/21/1.jpg): failed to open stream: No such file or directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 208
+[13-Aug-2022 15:03:34 Etc/UTC] PHP Warning:  copy(../_contents/imap/114/../.tmp/21/npp.8.1.4.installer.exe): failed to open stream: No such file or directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 208
+[13-Aug-2022 15:03:34 Etc/UTC] PHP Warning:  copy(../_contents/imap/114/../.tmp/21/paint.net.4.2.16.install.zip): failed to open stream: No such file or directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 208
+[13-Aug-2022 15:04:24 Etc/UTC] PHP Warning:  copy(1.jpg): failed to open stream: No such file or directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 210
+[13-Aug-2022 15:04:24 Etc/UTC] PHP Warning:  copy(npp.8.1.4.installer.exe): failed to open stream: No such file or directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 210
+[13-Aug-2022 15:04:24 Etc/UTC] PHP Warning:  copy(paint.net.4.2.16.install.zip): failed to open stream: No such file or directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 210
+[13-Aug-2022 15:04:55 Etc/UTC] PHP Notice:  Undefined variable: anexo_ficheiro in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 208
+[13-Aug-2022 15:04:55 Etc/UTC] PHP Warning:  copy(): The second argument to copy() function cannot be a directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 210
+[13-Aug-2022 15:04:55 Etc/UTC] PHP Warning:  copy(): The second argument to copy() function cannot be a directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 210
+[13-Aug-2022 15:04:55 Etc/UTC] PHP Warning:  copy(): The second argument to copy() function cannot be a directory in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 210
+[13-Aug-2022 15:05:26 Etc/UTC] PHP Warning:  filesize(): stat failed for ../_contents/imap/118/../_contents/imap/118/1.jpg in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 221
+[13-Aug-2022 15:05:26 Etc/UTC] PHP Warning:  filesize(): stat failed for ../_contents/imap/118/../_contents/imap/118/npp.8.1.4.installer.exe in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 221
+[13-Aug-2022 15:05:26 Etc/UTC] PHP Warning:  filesize(): stat failed for ../_contents/imap/118/../_contents/imap/118/paint.net.4.2.16.install.zip in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 221
+[13-Aug-2022 15:06:26 Etc/UTC] PHP Warning:  filesize(): stat failed for ../_contents/imap/119/../_contents/imap/119/1.jpg in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 222
+[13-Aug-2022 15:06:26 Etc/UTC] PHP Warning:  filesize(): stat failed for ../_contents/imap/119/../_contents/imap/119/npp.8.1.4.installer.exe in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 222
+[13-Aug-2022 15:06:26 Etc/UTC] PHP Warning:  filesize(): stat failed for ../_contents/imap/119/../_contents/imap/119/paint.net.4.2.16.install.zip in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 222
+[13-Aug-2022 15:06:47 Etc/UTC] PHP Warning:  filesize(): stat failed for ../_contents/imap/120/../_contents/imap/120/1.jpg in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 222
+[13-Aug-2022 15:06:47 Etc/UTC] PHP Warning:  filesize(): stat failed for ../_contents/imap/120/../_contents/imap/120/npp.8.1.4.installer.exe in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 222
+[13-Aug-2022 15:06:47 Etc/UTC] PHP Warning:  filesize(): stat failed for ../_contents/imap/120/../_contents/imap/120/paint.net.4.2.16.install.zip in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 222
+[13-Aug-2022 16:09:08 Etc/UTC] PHP Notice:  Undefined index: cc in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 47
+[13-Aug-2022 16:09:13 Etc/UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 273
+[13-Aug-2022 16:17:18 Etc/UTC] PHP Notice:  Undefined index: cc in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 52
+[13-Aug-2022 16:17:18 Etc/UTC] PHP Notice:  Undefined index: enviado in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 65
+[13-Aug-2022 16:17:18 Etc/UTC] PHP Notice:  Undefined index: lido in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 99
+[13-Aug-2022 16:17:18 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2354
+[13-Aug-2022 16:17:18 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2435
+[13-Aug-2022 17:33:42 Etc/UTC] PHP Notice:  Undefined index: cc in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 52
+[13-Aug-2022 17:33:42 Etc/UTC] PHP Notice:  Undefined index: enviado in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 65
+[13-Aug-2022 17:33:42 Etc/UTC] PHP Notice:  Undefined index: lido in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 99
+[13-Aug-2022 17:33:42 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2392
+[13-Aug-2022 17:33:42 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2473
+[13-Aug-2022 17:42:32 Etc/UTC] PHP Notice:  Undefined variable: output in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 312
+[13-Aug-2022 17:45:33 Etc/UTC] PHP Notice:  Undefined index: cc in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 52
+[13-Aug-2022 17:45:33 Etc/UTC] PHP Notice:  Undefined index: enviado in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 65
+[13-Aug-2022 17:45:33 Etc/UTC] PHP Notice:  Undefined index: lido in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 99
+[13-Aug-2022 17:45:33 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2392
+[13-Aug-2022 17:45:33 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2473
+[13-Aug-2022 17:45:40 Etc/UTC] PHP Notice:  Undefined index: cc in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 52
+[13-Aug-2022 17:45:40 Etc/UTC] PHP Notice:  Undefined index: enviado in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 65
+[13-Aug-2022 17:45:40 Etc/UTC] PHP Notice:  Undefined index: lido in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 99
+[13-Aug-2022 17:45:40 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2392
+[13-Aug-2022 17:45:40 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2473
+[13-Aug-2022 17:46:24 Etc/UTC] PHP Notice:  Undefined index: cc in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 53
+[13-Aug-2022 17:46:24 Etc/UTC] PHP Notice:  Undefined index: enviado in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 66
+[13-Aug-2022 17:46:24 Etc/UTC] PHP Notice:  Undefined index: lido in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 100
+[13-Aug-2022 17:46:24 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2392
+[13-Aug-2022 17:46:24 Etc/UTC] PHP Notice:  Undefined index: id_imap in /home/uf23qstc/suporte.petrovnetwork.com/_funcoes.php on line 2473
+[13-Aug-2022 19:01:58 Etc/UTC] PHP Warning:  str_replace() expects at least 3 parameters, 2 given in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 52
+[13-Aug-2022 19:01:58 Etc/UTC] PHP Warning:  str_replace() expects at least 3 parameters, 2 given in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/detalhes.php on line 53
+[13-Aug-2022 19:58:19 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 62
+[13-Aug-2022 20:00:28 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:00:44 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:01:19 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:04 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:04 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:05 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:06 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:07 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:07 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:08 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:09 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:10 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:11 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:11 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:12 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:13 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:14 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:15 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:15 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:16 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:21 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:22 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:23 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:24 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:25 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:26 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:27 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:27 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:28 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:29 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:30 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:31 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:33 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:34 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:35 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:35 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:37 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:38 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:39 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:40 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:40 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:41 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:43 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:45 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:45 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:46 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:47 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:48 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:49 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:49 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:50 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:51 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:52 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:53 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:54 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:55 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:56 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:57 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:58 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:02:59 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:03:00 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:03:01 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:03:01 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 65
+[13-Aug-2022 20:04:34 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:35 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:35 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:36 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:37 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:38 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:38 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:39 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:40 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:41 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:42 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:43 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:43 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:44 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:45 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:46 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:47 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:48 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:49 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:49 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:50 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:51 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:52 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:52 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:58 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:58 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:04:59 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:00 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:01 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:02 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:04 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:04 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:05 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:06 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:07 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:08 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:09 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:09 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:10 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:11 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:12 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:13 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:13 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:14 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:15 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:16 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:16 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:17 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:18 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:19 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:20 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:21 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:05:31 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66
+[13-Aug-2022 20:07:09 Etc/UTC] PHP Notice:  Undefined index: nome_imap in /home/uf23qstc/suporte.petrovnetwork.com/mod_imap/criar.php on line 66

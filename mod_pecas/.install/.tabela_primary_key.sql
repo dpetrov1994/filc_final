@@ -1,0 +1,1 @@
+ALTER TABLE pecas ADD PRIMARY KEY (id_peca);

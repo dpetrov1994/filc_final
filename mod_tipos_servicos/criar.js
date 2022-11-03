@@ -1,0 +1,1 @@
+$('input[name*=nome_tipo_servico]').rules('add', 'required');

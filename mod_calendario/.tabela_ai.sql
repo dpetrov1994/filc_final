@@ -1,0 +1,1 @@
+ALTER TABLE calendario MODIFY id_calendario int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;

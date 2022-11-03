@@ -1,0 +1,1 @@
+$('input[name*=nome_ralatorio]').rules('add', 'required');$('input[name*=id_cliente]').rules('add', 'required');$('input[name*=id_utilizador]').rules('add', 'required');$('input[name*=data_relatorio]').rules('add', 'required');$('input[name*=data_relatorio]').rules('add', 'dataPortuguesa');$('input[name*=id_categoria]').rules('add', 'required');

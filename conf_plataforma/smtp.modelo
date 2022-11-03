@@ -1,0 +1,9 @@
+<?php
+$smtp_userNome="_userNome_";
+$smtp_user="_user_";
+$smtp_pass="_pass_";
+$smtp_host="_host_";
+$smtp_port="_port_";
+
+$smtp_reply="_reply_";
+$smtp_replyNome="_replyNome_";

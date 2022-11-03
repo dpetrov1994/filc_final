@@ -1,0 +1,1 @@
+ALTER TABLE maquinas ADD PRIMARY KEY (id_maquina);

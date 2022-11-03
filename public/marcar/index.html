@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>_nomePagina_ - _nomeModuloTitle_ - _nomePlataforma_</title>
+		<meta name="description" content="_metaDescricao_">
+		<meta name="author" content="_metaAutor_">
+		<meta name="keywords" content="_metaKeywords_">
+		<meta name="robots" content="_metaRobots_">
+
+		<link rel="shortcut icon" href="../../assets/layout/img/favicon.png">
+		<link rel="apple-touch-icon" href="../../assets/layout/img/icon57.png" sizes="57x57">
+		<link rel="apple-touch-icon" href="../../assets/layout/img/icon72.png" sizes="72x72">
+		<link rel="apple-touch-icon" href="../../assets/layout/img/icon76.png" sizes="76x76">
+		<link rel="apple-touch-icon" href="../../assets/layout/img/icon114.png" sizes="114x114">
+		<link rel="apple-touch-icon" href="../../assets/layout/img/icon120.png" sizes="120x120">
+		<link rel="apple-touch-icon" href="../../assets/layout/img/icon144.png" sizes="144x144">
+		<link rel="apple-touch-icon" href="../../assets/layout/img/icon152.png" sizes="152x152">
+		<link rel="apple-touch-icon" href="../../assets/layout/img/icon180.png" sizes="180x180">
+
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<link rel="stylesheet" type="text/css" href="css/cs-select.css" />
+		<link rel="stylesheet" type="text/css" href="css/cs-skin-boxes.css" />
+		<link rel="stylesheet" type="text/css" href="../../assets/layout/css/main.css" />
+		<link rel="stylesheet" type="text/css" href="../../assets/layout/css/themes/_temaPlataforma_" />
+		<script src="js/modernizr.custom.js"></script>
+	</head>
+	<body>
+		<div class="container">
+
+			<div class="fs-form-wrap" id="fs-form-wrap">
+				<form id="myform" class="fs-form fs-form-full" autocomplete="off" >
+					<ol class="fs-fields">
+						<li data-input-trigger>
+							<label class="fs-field-label fs-anim-upper" data-info="Vamos verificar a nossa disponivilidade para o podermos servir.">Escolha o serviço</label>
+							<div class="fs-radio-group fs-radio-custom clearfix fs-anim-lower">
+								_servicos_
+							</div>
+						</li>
+						<li data-input-trigger>
+							<label class="fs-field-label fs-anim-upper" data-info="De seguida escolha a hora para qual deseja fazer a marcação">Escolha o dia</label>
+							<div class="fs-radio-group fs-radio-custom clearfix fs-anim-lower">
+								_dias_
+							</div>
+						</li>
+						<li data-input-trigger>
+							<label class="fs-field-label fs-anim-upper" data-info="Escolha a hora ideal para fazer a marcação.">Escolha a hora</label>
+							<div class="fs-radio-group fs-radio-custom clearfix fs-anim-lower" id="horas">
+
+							</div>
+						</li>
+						<li>
+							<label class="fs-field-label fs-anim-upper" for="email" data-info="Vai receber uma mensagem com o código de verificação.">Qual é o seu email?</label>
+							<input class="fs-anim-lower" id="email" name="email" type="email" placeholder="meu@email.pt" required/>
+						</li>
+						<li>
+							<label class="fs-field-label fs-anim-upper" for="codigo_verificacao" data-info="Se não receve o código entre em contacto connosco diretamente."><i class="fa fa-spiner fa-spin"></i> Insira o código que lhe foi enviado.</label>
+							<input class="fs-anim-lower" id="codigo_verificacao" name="codigo_verificacao" type="number" placeholder="****" required/>
+							<input style="display: none" id="codigo" name="codigo" type="number"/>
+						</li>
+						<li>
+							<label class="fs-field-label fs-anim-upper" for="nome">Como se chama?</label>
+							<input class="fs-anim-lower" id="nome" name="nome" type="text" placeholder="Seu nome.." required/>
+						</li>
+					</ol><!-- /fs-fields -->
+					<button class="fs-submit" name="marcar" type="submit">Confirmar!</button>
+				</form><!-- /fs-form -->
+			</div><!-- /fs-form-wrap -->
+
+
+		</div><!-- /container -->
+		<script src="../../assets/layout/js/vendor/jquery-2.1.4.min.js"></script>
+		<script src="js/classie.js"></script>
+		<script src="js/selectFx.js"></script>
+		<script src="js/fullscreenForm.js"></script>
+		<script>
+			(function() {
+				var formWrap = document.getElementById( 'fs-form-wrap' );
+
+				[].slice.call( document.querySelectorAll( 'select.cs-select' ) ).forEach( function(el) {
+					new SelectFx( el, {
+						stickyPlaceholder: false,
+						onChange: function(val){
+							document.querySelector('span.cs-placeholder').style.backgroundColor = val;
+						}
+					});
+				} );
+
+				var form = new FForm( formWrap, {
+					onReview : function() {
+						classie.add( document.body, 'overview' ); // for demo purposes only
+					}
+				} );
+			})();
+		</script>
+	</body>
+</html>

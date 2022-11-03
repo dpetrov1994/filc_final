@@ -1,0 +1,1 @@
+ALTER TABLE simulacoes_grupos ADD PRIMARY KEY (id_grupo);

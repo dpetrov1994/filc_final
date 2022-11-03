@@ -1,0 +1,1 @@
+ALTER TABLE produtos ADD PRIMARY KEY (id_produto);

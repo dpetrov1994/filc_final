@@ -1,0 +1,1 @@
+ALTER TABLE orcamentos ADD PRIMARY KEY (id_orcamento);

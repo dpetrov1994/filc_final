@@ -1,0 +1,1 @@
+ALTER TABLE relatorios_avancados ADD PRIMARY KEY (id_relatorio);

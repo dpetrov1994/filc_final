@@ -1,0 +1,1 @@
+ALTER TABLE assistencias_categorias MODIFY id_categoria int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;

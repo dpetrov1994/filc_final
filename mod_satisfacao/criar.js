@@ -1,0 +1,1 @@
+$('input[name*=nome_satisfacao]').rules('add', 'required');$('input[name*=id_assistencia_cliente]').rules('add', 'required');$('input[name*=id_utilizador]').rules('add', 'required');

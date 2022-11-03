@@ -1,0 +1,1 @@
+ALTER TABLE grupos_new ADD PRIMARY KEY (id_grupo);

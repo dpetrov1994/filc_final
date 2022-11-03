@@ -1,0 +1,1 @@
+$('input[name*=nome_spam]').rules('add', 'required');

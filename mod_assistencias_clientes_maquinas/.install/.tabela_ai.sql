@@ -1,0 +1,1 @@
+ALTER TABLE assistencias_clientes_maquinas MODIFY id_assistencia_cliente_maquina int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1;

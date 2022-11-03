@@ -1,0 +1,1 @@
+$('input[name*=nome_financeiro]').rules('add', 'required');

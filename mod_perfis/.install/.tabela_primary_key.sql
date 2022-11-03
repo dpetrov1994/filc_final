@@ -1,0 +1,1 @@
+ALTER TABLE mod_perfis ADD PRIMARY KEY (id_perfil);

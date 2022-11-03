@@ -1,0 +1,4 @@
+[09-Sep-2022 07:34:09 Etc/UTC] PHP Warning:  A non-numeric value encountered in /home/plataforma/public_html/crm/mod_orcamentos/index.php on line 191
+[09-Sep-2022 07:34:09 Etc/UTC] PHP Warning:  A non-numeric value encountered in /home/plataforma/public_html/crm/mod_orcamentos/index.php on line 191
+[09-Sep-2022 11:12:28 Europe/Lisbon] PHP Parse error:  syntax error, unexpected '}' in /home/srvpt/public_html/filc.srv01.pt/mod_orcamentos/index.php on line 23
+[09-Sep-2022 11:12:58 Europe/Lisbon] PHP Parse error:  syntax error, unexpected '}' in /home/srvpt/public_html/filc.srv01.pt/mod_orcamentos/index.php on line 23

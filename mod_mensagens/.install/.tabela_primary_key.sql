@@ -1,0 +1,1 @@
+ALTER TABLE mensagens ADD PRIMARY KEY (id_mensagem);
